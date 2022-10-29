@@ -1,7 +1,3 @@
-
-[![Matthias Jost](https://pbs.twimg.com/profile_banners/1164087157344153600/1645967459/1500x500)](https://www.matthias-jost.ch)
-
-
 ###  Enthusiastic About Software Development // [github.com/matthiasjost](https://www.github.com/matthiasjost) 
 
 My name is Matthias. I am a full stack developer from Basel (Switzerland).
